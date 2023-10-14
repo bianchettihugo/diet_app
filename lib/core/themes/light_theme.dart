@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class LightTheme {
   ThemeData get theme => ThemeData(
         brightness: Brightness.light,
-        primaryColor: const Color(0xff016FFF),
+        primaryColor: const Color(0xff1B00D4),
         cardColor: const Color(0xffFFFFFF),
         hintColor: const Color(0xffB2B2B2),
         disabledColor: const Color(0xffBDBEC4),
@@ -21,7 +21,7 @@ class LightTheme {
         ),
         colorScheme: const ColorScheme(
           brightness: Brightness.light,
-          primary: Color(0xff016FFF),
+          primary: Color(0xff1B00D4),
           inversePrimary: Color(0xffFB5058),
           onPrimary: Color(0xffF1F1F1),
           secondary: Color(0xffFDB63A),
